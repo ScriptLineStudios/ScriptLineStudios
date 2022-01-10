@@ -2,6 +2,7 @@
 About
 ==============
 Hi! I love making stuff with Python and Pygame 🐍 I am currently learning Flask ☕ Linux 🐧 Networking 💻
+I have a YouTube channel where I make gamedev 🎮 videos and tutorials teaching people to make their own games
 
 Stats
 ==============
