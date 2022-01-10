@@ -4,8 +4,8 @@ Hi! I love making stuff with Python and Pygame 🐍 I am currently learning Flas
 
 Stats
 ==============
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScriptLineStudios&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScriptLineStudios&show_icons=true&theme=merko)
 
 Languages
 ==============
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptLineStudios&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptLineStudios&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
