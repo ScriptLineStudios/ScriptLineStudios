@@ -4,6 +4,10 @@ About
 Hi! I love making stuff with Python and Pygame 🐍 I am currently learning Flask ☕ Linux 🐧 Networking 💻
 I have a YouTube channel where I make gamedev 🎮 videos and tutorials teaching people to make their own games
 
+Modules
+==============
+- Pygame ![0_nr8xfIriulC1eIkW](https://user-images.githubusercontent.com/85095943/148772247-085e556d-7a09-4c72-a041-ad5ee388e5e6.png)
+
 Stats
 ==============
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScriptLineStudios&show_icons=true&theme=blue-green)
