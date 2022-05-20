@@ -18,4 +18,4 @@ Stats
 
 Languages
 ==============
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptLineStudios&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptLineStudios&layout=compact&langs_count=10&bg_color=ffffff00&text_color=718096&hide_border=true" height="150" alt="most_used_langs">
