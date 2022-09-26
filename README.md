@@ -1,6 +1,6 @@
 Hello! I like making stuff
 
-<figure><embed src="https://wakatime.com/share/@6f0897b3-710d-414d-88d4-cc1e3a2201ea/cbe90d42-5ff9-4850-bc83-811abc0fb16f.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@6f0897b3-710d-414d-88d4-cc1e3a2201ea/3219aee7-39dd-40c2-9c42-34b9e87cd0dd.png" /></a>
 
 Stats
 ==============
