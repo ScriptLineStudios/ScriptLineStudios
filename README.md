@@ -4,7 +4,7 @@ Stats
 ==============
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScriptLineStudios&show_icons=true&theme=blue-green)
 
-[![wakatime](https://wakatime.com/badge/user/6f0897b3-710d-414d-88d4-cc1e3a2201ea.svg)](https://wakatime.com/@6f0897b3-710d-414d-88d4-cc1e3a2201ea)
+<a href="https://wakatime.com/@6f0897b3-710d-414d-88d4-cc1e3a2201ea"><img src="https://wakatime.com/badge/user/6f0897b3-710d-414d-88d4-cc1e3a2201ea.svg" alt="Total time coded since Sep 22 2022" /></a>
 
 Languages
 ==============
