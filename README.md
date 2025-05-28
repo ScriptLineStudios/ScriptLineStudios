@@ -5,3 +5,5 @@ I like Minecraft seedfinding and seedcracking, game development, and other nonse
 <figure><embed src="https://wakatime.com/share/@ScriptLineStudios/7aa5fdba-8f66-4959-8cce-3a385263ed8e.svg"></embed></figure>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptLineStudios&layout=compact&langs_count=10&bg_color=ffffff00&text_color=718096&hide_border=true" height="150" alt="most_used_langs">
+
+![ScriptLines's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScriptLineStudios&show_icons=true&theme=radical)
