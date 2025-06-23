@@ -5,3 +5,5 @@ The best part of the internet is contributing to it
 <figure><embed src="https://wakatime.com/share/@ScriptLineStudios/7aa5fdba-8f66-4959-8cce-3a385263ed8e.svg"></embed></figure>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptLineStudios&layout=compact&langs_count=10&bg_color=ffffff00&text_color=718096&hide_border=true" height="150" alt="most_used_langs">
+
+[![committers.top badge](https://user-badge.committers.top/south_africa/ScriptLineStudios.svg)](https://user-badge.committers.top/south_africa/ScriptLineStudios)
